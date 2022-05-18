@@ -1,0 +1,7 @@
+a
+b
+c
+d
+f
+this is the text added after...
+last line 12
